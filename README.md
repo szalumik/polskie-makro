@@ -25,4 +25,4 @@ v.1.0 original
 v.1.1 forgot to save in vsc XD                                 
 v.1.2 new design (black)                                                           
 v.1.3 deleted opcion to record mouse movement (laggy and sometimes didn't work)                                              
-v.1.4 new menu opcions (soon)                                                      
+v.1.4 new menu opcions changing colors (dark mode, white mode and secret rainbow mode), deleted pop-up now it's abowe buttons, button record when hit its now red and no bugs (only if you find)
