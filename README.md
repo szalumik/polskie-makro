@@ -23,4 +23,4 @@ pip install mouse
 versions                                    
 v.1.0 original                                     
 v.1.1 forgot to save in vsc XD                                 
-v.1.2 new design (black) (comming)                             
+v.1.2 new design (black)                                                           
